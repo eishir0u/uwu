@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open uwu.html",
-            "file": "c:\\Files\\VSCodeFiles\\uwu\\uwu.html"
+            "name": "Open index.html",
+            "file": "c:\\Files\\VSCodeFiles\\uwu\\index.html"
         }
     ]
 }
